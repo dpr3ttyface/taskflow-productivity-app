@@ -117,6 +117,8 @@ npm run dev
 ## 📸 Преглед
 
 ![App Preview](https://i.postimg.cc/bvpwxLN5/todo.png)
+<img width="1876" height="1457" alt="todo" src="https://github.com/user-attachments/assets/aec2fb9b-f103-4a8d-9967-f086101116d2" />
+
 ---
 
 ## 📄 Лиценз
